@@ -6,5 +6,16 @@
     "**/requirements{/**,*}.{txt,in}": "pip-requirements"
 },
 "python.pythonPath": "C:\\Users\\Matthew\\AppData\\Local\\Programs\\Python\\Python37\\python.exe",
+
+"editor.tokenColorCustomizations": {
+    "textMateRules": [
+      {
+        "scope": "meta.function-call.generic.python",
+        "settings": {
+          "foreground": "#05b8ff"
+        }
+      }
+    ]
+  },
 }
 
